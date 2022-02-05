@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rapidnoodle
 - 👀 I’m interested in programming, obv
-- 🌱 I’m currently learning JavaScript and Java (yes, I know they are completely different)
+- 🌱 I’m currently learning Git, Node, and Wordpress
 - 💞️ I’m looking to collaborate on any project, because it's fun
 - 📫 How to reach me: @Noodles#5211 on Discord
 
