@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rapidnoodle
 - 👀 I’m interested in programming, obv
-- 🌱 I’m currently learning Wordpress (a bit of PHP) and C#
+- 🌱 I’m currently learning Flask with Python for AI Camp
 - 💞️ I’m looking to collaborate on any projects, because it's fun
 - 📫 How to reach me: @Noodles#5211 on Discord
 
