@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rapidnoodle
+- 👋 Hi, I’m Noodles
 - 👀 I’m interested in programming, obv
 - 🌱 I’m currently learning TypeScript which I should have been learning a long time ago
 - 💞️ I’m looking to collaborate on any projects, because it's fun
